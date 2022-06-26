@@ -1,6 +1,6 @@
 ### Express Consume API
 
-Hello, this project is to consume API in front-and and back-end
+Hello, this project is to for consume API in front-and and back-end
 
 - installing package `npm i`
 - start server back-end `cd src` & `npm start`
